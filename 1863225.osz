@@ -1,0 +1,2701 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="de">
+    <head>
+        <link rel="apple-touch-icon" sizes="180x180" href="https://osu.ppy.sh/images/favicon/apple-touch-icon.png">
+<link rel="icon" sizes="32x32" href="https://osu.ppy.sh/images/favicon/favicon-32x32.png">
+<link rel="icon" sizes="16x16" href="https://osu.ppy.sh/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://osu.ppy.sh/site.webmanifest">
+<link rel="mask-icon" href="https://osu.ppy.sh/images/favicon/safari-pinned-tab.svg" color="#e2609a">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="theme-color" content="#5c6970"> 
+
+<meta charset="utf-8">
+<meta name="description" content="osu! » Beatmaps » chelmico - Easy Breezy">
+<meta name="keywords" content="osu, peppy, ouendan, elite, beat, agents, ds, windows, game, taiko, tatsujin, simulator, sim, xna, ddr, beatmania, osu!, osume">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="turbo-cache-control" content="no-preview">
+<meta name="turbo-prefetch" content="false">
+
+<link rel="search" type="application/opensearchdescription+xml" title="osu! search" href="https://osu.ppy.sh/opensearch.xml">
+
+<meta property="og:site_name" content="osu!">
+<meta property="og:type" content="website">
+
+
+                        <meta property="og:description" content="osu! » Beatmaps » chelmico - Easy Breezy">
+                                    <meta property="og:image" content="https://assets.ppy.sh/beatmaps/1863225/covers/list.jpg?1748758370">
+                                    <meta property="og:title" content="chelmico - Easy Breezy · beatmap-info">
+            
+
+<meta name="csrf-param" content="_token">
+<meta name="csrf-token" content="YeDgnnIu8L1WaLt2GNCQ1lTni3ZnlIBi5wkURpxS">
+
+
+<link rel="stylesheet" media="all" href="/assets/css/app.8b09bcfe.css" data-turbo-track="reload">
+
+<script>
+    var currentLocale = "de";
+    var fallbackLocale = "en";
+</script>
+
+<script src="/assets/js/runtime.3ee2bd4e.js" data-turbo-eval="false"></script>
+<script src="/assets/js/vendor.a9a10431.js" data-turbo-eval="false"></script>
+
+<script src="/assets/js/locales/de.1ed0bb5d.js" data-turbo-track="reload"></script>
+    <script src="/assets/js/locales/en.9239c095.js" data-turbo-track="reload"></script>
+
+<script src="/assets/js/commons.849cb3a9.js" data-turbo-eval="false"></script>
+<script src="/assets/js/app.01ff1bc8.js" data-turbo-eval="false"></script>
+
+<script
+    src="/assets/js/moment-locales/de.c424212f.js"
+    data-turbo-eval="false"
+></script>
+
+
+
+        <title>chelmico - Easy Breezy‬ · beatmap-info‬ | ‭osu!‬</title>
+        <base href="https://osu.ppy.sh/beatmapsets/1863225" />
+    </head>
+
+    <body
+        class="
+            t-section
+            osu-layout osu-layout--body
+            
+        "
+        style="--base-hue-default: 200; --base-hue-override: 200"
+    >
+        <div id="overlay" class="blackout blackout--overlay" style="display: none;"></div>
+        <div class="blackout js-blackout" data-visibility="hidden"></div>
+
+                            
+                    <div class="visible-xs no-print js-header--main">
+    <div class="navbar-mobile-before"></div>
+
+    <div class="navbar-mobile" role="navigation">
+        <div class="navbar-mobile__header-section">
+            <a class="navbar-mobile__logo" href="https://osu.ppy.sh"></a>
+            <span class="navbar-mobile__brand u-ellipsis-overflow">
+                beatmap-info
+            </span>
+        </div>
+
+        <div class="navbar-mobile__header-section navbar-mobile__header-section--buttons">
+            <button
+                type="button"
+                class="navbar-mobile__toggle js-click-menu"
+                data-click-menu-target="mobile-menu"
+            >
+                <span class="sr-only">Toggle navigation</span>
+                <span class="navbar-mobile__toggle-icon">
+                    <i class="fas fa-chevron-down"></i>
+                </span>
+            </button>
+        </div>
+    </div>
+
+    <div
+        class="mobile-menu js-click-menu u-fancy-scrollbar"
+        data-click-menu-id="mobile-menu"
+    >
+        <div class="mobile-menu__content">
+            <div class="mobile-menu__tabs">
+                                    <a
+                        href="https://osu.ppy.sh/users/18849302"
+                        data-click-menu-target="mobile-user"
+                        class="mobile-menu-tab mobile-menu-tab--user js-click-menu"
+                    >
+                        <span class="mobile-menu-tab__avatar">
+                            <span
+                                class="avatar avatar--full-rounded"
+                                style="background-image: url('https://a.ppy.sh/18849302?1731282423.jpeg');"
+                            ></span>
+                        </span>
+
+                        <span class="u-ellipsis-overflow">
+                            UwU Lena
+                        </span>
+                    </a>
+                
+                <button class="mobile-menu-tab js-click-menu" data-click-menu-target="mobile-nav">
+                    <span class="fas fa-sitemap"></span>
+                </button>
+
+                                    <button class="mobile-menu-tab js-click-menu" data-click-menu-target="mobile-search">
+                        <span class="fas fa-search"></span>
+                    </button>
+
+                    <a
+                        class="mobile-menu-tab js-click-menu js-react--chat-icon"
+                        data-click-menu-target="mobile-chat-notification"
+                        data-turbo-permanent
+                        data-type='mobile'
+                        id="notification-widget-chat-icon-mobile"
+                        href="https://osu.ppy.sh/community/chat"
+                    >
+                        <span class="notification-icon notification-icon--mobile">
+                            <i class="fas fa-comment-alt"></i>
+                            <span class="notification-icon__count">...</span>
+                        </span>
+                    </a>
+
+                    <a
+                        class="mobile-menu-tab js-click-menu js-react--main-notification-icon"
+                        data-click-menu-target="mobile-notification"
+                        data-turbo-permanent
+                        data-type='mobile'
+                        id="notification-widget-icon-mobile"
+                        href="https://osu.ppy.sh/notifications"
+                    >
+                        <span class="notification-icon notification-icon--mobile">
+                            <i class="fas fa-inbox"></i>
+                            <span class="notification-icon__count">...</span>
+                        </span>
+                    </a>
+                            </div>
+
+            <div class="mobile-menu__item js-click-menu" data-click-menu-id="mobile-user">
+                <div class="navbar-mobile-item js-click-menu--close">
+            <div
+            class="navbar-mobile-item__main js-react--user-card"
+            data-is-current-user="1"
+        ></div>
+
+        <button
+    class="navbar-mobile-item__main"
+    type="button"
+    data-url="https://osu.ppy.sh/home/account/options?user_profile_customization%5Blegacy_score_only%5D=0"
+    data-method="PUT"
+    data-remote="1"
+    data-reload-on-success="1"
+    title="Der Lazer-Modus zeigt Scores aus Lazer mit einem neuen Bewertungsalgorithmus an."
+>
+    <span>
+        <span class="far fa-square"></span>
+        Lazer-Modus
+    </span>
+</button>
+
+
+        <a
+            class="navbar-mobile-item__main"
+            href="https://osu.ppy.sh/users/18849302"
+        >
+            Mein Profil
+        </a>
+
+                    <a class="navbar-mobile-item__main" href="https://osu.ppy.sh/teams/create">
+                Mein Team
+            </a>
+        
+        <a class="navbar-mobile-item__main" href="https://osu.ppy.sh/home/friends">
+            Freunde
+        </a>
+
+        <a class="navbar-mobile-item__main" href="https://osu.ppy.sh/home/follows/forum_topic">
+            Merklisten
+        </a>
+
+        <a class="navbar-mobile-item__main" href="https://osu.ppy.sh/home/account/edit">
+            Einstellungen
+        </a>
+
+        <button
+            class="js-logout-link navbar-mobile-item__main"
+            type="button"
+            data-url="https://osu.ppy.sh/session"
+            data-confirm="Sicher, dass du dich ausloggen willst? :("
+            data-method="delete"
+            data-remote="1"
+        >
+            Ausloggen
+        </button>
+    </div>
+            </div>
+
+            <div class="mobile-menu__item js-click-menu" data-click-menu-id="mobile-nav">
+                <div class="navbar-mobile-item">
+        <a
+            data-click-menu-target="nav-mobile-home"
+            class="navbar-mobile-item__main js-click-menu"
+            href="https://osu.ppy.sh"
+        >
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--closed">
+                <i class="fas fa-chevron-right"></i>
+            </span>
+
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--opened">
+                <i class="fas fa-chevron-down"></i>
+            </span>
+
+            Home
+        </a>
+
+        <ul class="navbar-mobile-item__submenu js-click-menu" data-click-menu-id="nav-mobile-home">
+                                                                                <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/home/news"
+                    >
+                        Neuigkeiten
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/wiki/de/People/osu%21_team"
+                    >
+                        Team
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/home/changelog"
+                    >
+                        Änderungsprotokoll
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/home/download"
+                    >
+                        Herunterladen
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/home/search"
+                    >
+                        Suchen
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    <div class="navbar-mobile-item">
+        <a
+            data-click-menu-target="nav-mobile-beatmaps"
+            class="navbar-mobile-item__main js-click-menu"
+            href="https://osu.ppy.sh/beatmapsets"
+        >
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--closed">
+                <i class="fas fa-chevron-right"></i>
+            </span>
+
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--opened">
+                <i class="fas fa-chevron-down"></i>
+            </span>
+
+            Beatmaps
+        </a>
+
+        <ul class="navbar-mobile-item__submenu js-click-menu" data-click-menu-id="nav-mobile-beatmaps">
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/beatmapsets"
+                    >
+                        Beatmap-Auflistung
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/beatmaps/artists"
+                    >
+                        Featured Artists
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/beatmaps/packs"
+                    >
+                        Beatmap-Pakete
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    <div class="navbar-mobile-item">
+        <a
+            data-click-menu-target="nav-mobile-rankings"
+            class="navbar-mobile-item__main js-click-menu"
+            href="https://osu.ppy.sh/rankings/osu/global"
+        >
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--closed">
+                <i class="fas fa-chevron-right"></i>
+            </span>
+
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--opened">
+                <i class="fas fa-chevron-down"></i>
+            </span>
+
+            Ranglisten
+        </a>
+
+        <ul class="navbar-mobile-item__submenu js-click-menu" data-click-menu-id="nav-mobile-rankings">
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/rankings/osu/global"
+                    >
+                        Global
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/rankings/osu/country"
+                    >
+                        Länder
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/rankings/osu/team"
+                    >
+                        Teams
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/multiplayer/rooms/latest"
+                    >
+                        Mehrspieler
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/rankings/daily-challenge"
+                    >
+                        Tägliche Herausforderung
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/seasons/latest"
+                    >
+                        Seasons
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/rankings/osu/charts"
+                    >
+                        Spotlights (alt)
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/rankings/kudosu"
+                    >
+                        Kudosu
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    <div class="navbar-mobile-item">
+        <a
+            data-click-menu-target="nav-mobile-community"
+            class="navbar-mobile-item__main js-click-menu"
+            href="https://osu.ppy.sh/community/forums"
+        >
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--closed">
+                <i class="fas fa-chevron-right"></i>
+            </span>
+
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--opened">
+                <i class="fas fa-chevron-down"></i>
+            </span>
+
+            Community
+        </a>
+
+        <ul class="navbar-mobile-item__submenu js-click-menu" data-click-menu-id="nav-mobile-community">
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/community/forums"
+                    >
+                        Forum
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/community/chat"
+                    >
+                        Chat
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/community/contests"
+                    >
+                        Wettbewerbe
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/community/tournaments"
+                    >
+                        Turniere
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/community/livestreams"
+                    >
+                        Liveübertragung
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://discord.gg/ppy"
+                    >
+                        Entwicklung
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    <div class="navbar-mobile-item">
+        <a
+            data-click-menu-target="nav-mobile-store"
+            class="navbar-mobile-item__main js-click-menu"
+            href="https://osu.ppy.sh/store/listing"
+        >
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--closed">
+                <i class="fas fa-chevron-right"></i>
+            </span>
+
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--opened">
+                <i class="fas fa-chevron-down"></i>
+            </span>
+
+            Store
+        </a>
+
+        <ul class="navbar-mobile-item__submenu js-click-menu" data-click-menu-id="nav-mobile-store">
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/store/listing"
+                    >
+                        Produkte
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/store/cart"
+                    >
+                        Warenkorb
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/store/orders"
+                    >
+                        Bestellverlauf
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    <div class="navbar-mobile-item">
+        <a
+            data-click-menu-target="nav-mobile-help"
+            class="navbar-mobile-item__main js-click-menu"
+            href="https://osu.ppy.sh/wiki/de/Main_page"
+        >
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--closed">
+                <i class="fas fa-chevron-right"></i>
+            </span>
+
+            <span class="navbar-mobile-item__icon navbar-mobile-item__icon--opened">
+                <i class="fas fa-chevron-down"></i>
+            </span>
+
+            Hilfe
+        </a>
+
+        <ul class="navbar-mobile-item__submenu js-click-menu" data-click-menu-id="nav-mobile-help">
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/wiki/de/Main_page"
+                    >
+                        Wiki
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/wiki/de/FAQ"
+                    >
+                        FAQ
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/wiki/de/Rules"
+                    >
+                        Regeln
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/wiki/de/Reporting_bad_behaviour/Abuse"
+                    >
+                        Missbrauch melden
+                    </a>
+                </li>
+                                            <li>
+                    <a
+                        class="navbar-mobile-item__submenu-item js-click-menu--close"
+                        href="https://osu.ppy.sh/wiki/de/Help_centre"
+                    >
+                        Ich brauche wirklich Hilfe!
+                    </a>
+                </li>
+                    </ul>
+    </div>
+
+<div class="navbar-mobile-item">
+    <button
+        class="navbar-mobile-item__main js-click-menu"
+        data-click-menu-target="nav-mobile-locale"
+    >
+        <span class="navbar-mobile-item__icon navbar-mobile-item__icon--closed">
+            <i class="fas fa-chevron-right"></i>
+        </span>
+
+        <span class="navbar-mobile-item__icon navbar-mobile-item__icon--opened">
+            <i class="fas fa-chevron-down"></i>
+        </span>
+
+        <span class="navbar-mobile-item__locale-flag">
+            <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e9-1f1ea.svg');"
+></span>
+        </span>
+
+        Deutsch
+    </button>
+
+    <ul class="navbar-mobile-item__submenu js-click-menu" data-click-menu-id="nav-mobile-locale">
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=en"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ec-1f1e7.svg');"
+></span>
+                    </span>
+
+                    English
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=ar"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f8-1f1e6.svg');"
+></span>
+                    </span>
+
+                    اَلْعَرَبِيَّةُ‎
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=be"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e7-1f1fe.svg');"
+></span>
+                    </span>
+
+                    беларуская мова
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=bg"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e7-1f1ec.svg');"
+></span>
+                    </span>
+
+                    български
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=ca"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e6-1f1e9.svg');"
+></span>
+                    </span>
+
+                    català
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=cs"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e8-1f1ff.svg');"
+></span>
+                    </span>
+
+                    česky
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=da"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e9-1f1f0.svg');"
+></span>
+                    </span>
+
+                    dansk
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=de"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e9-1f1ea.svg');"
+></span>
+                    </span>
+
+                    Deutsch
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=el"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ec-1f1f7.svg');"
+></span>
+                    </span>
+
+                    ελληνικά
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=es"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ea-1f1f8.svg');"
+></span>
+                    </span>
+
+                    español
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=fi"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1eb-1f1ee.svg');"
+></span>
+                    </span>
+
+                    suomi
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=fil"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f5-1f1ed.svg');"
+></span>
+                    </span>
+
+                    wikang Filipino
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=fr"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1eb-1f1f7.svg');"
+></span>
+                    </span>
+
+                    français
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=he"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ee-1f1f1.svg');"
+></span>
+                    </span>
+
+                    עִבְרִית‎
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=hu"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ed-1f1fa.svg');"
+></span>
+                    </span>
+
+                    magyar
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=id"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ee-1f1e9.svg');"
+></span>
+                    </span>
+
+                    bahasa Indonesia
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=it"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ee-1f1f9.svg');"
+></span>
+                    </span>
+
+                    italiano
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=ja"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ef-1f1f5.svg');"
+></span>
+                    </span>
+
+                    日本語
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=ko"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f0-1f1f7.svg');"
+></span>
+                    </span>
+
+                    한국어
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=lt"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f1-1f1f9.svg');"
+></span>
+                    </span>
+
+                    lietuvių kalba
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=nl"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f3-1f1f1.svg');"
+></span>
+                    </span>
+
+                    Nederlands
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=no"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f3-1f1f4.svg');"
+></span>
+                    </span>
+
+                    norsk
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=pl"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f5-1f1f1.svg');"
+></span>
+                    </span>
+
+                    polski
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=pt"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f5-1f1f9.svg');"
+></span>
+                    </span>
+
+                    português
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=pt-br"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e7-1f1f7.svg');"
+></span>
+                    </span>
+
+                    português brasileiro
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=ro"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f7-1f1f4.svg');"
+></span>
+                    </span>
+
+                    română
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=ru"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f7-1f1fa.svg');"
+></span>
+                    </span>
+
+                    русский
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=sk"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f8-1f1f0.svg');"
+></span>
+                    </span>
+
+                    slovenčina
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=sl"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f8-1f1ee.svg');"
+></span>
+                    </span>
+
+                    slovenščina
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=sr"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f7-1f1f8.svg');"
+></span>
+                    </span>
+
+                    српски
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=sv"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f8-1f1ea.svg');"
+></span>
+                    </span>
+
+                    svenska
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=th"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f9-1f1ed.svg');"
+></span>
+                    </span>
+
+                    ไทย
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=tr"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f9-1f1f7.svg');"
+></span>
+                    </span>
+
+                    Türkçe
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=uk"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1fa-1f1e6.svg');"
+></span>
+                    </span>
+
+                    українська мова
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=vi"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1fb-1f1f3.svg');"
+></span>
+                    </span>
+
+                    tiếng Việt
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=zh"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e8-1f1f3.svg');"
+></span>
+                    </span>
+
+                    简体中文
+                </a>
+            </li>
+                                <li>
+                <a
+                    class="navbar-mobile-item__submenu-item js-click-menu--close"
+                    href="https://osu.ppy.sh/home/set-locale?locale=zh-tw"
+                    data-remote="1"
+                    data-method="POST"
+                >
+                    <span class="navbar-mobile-item__locale-flag">
+                        <span class="flag-country flag-country--small flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f9-1f1fc.svg');"
+></span>
+                    </span>
+
+                    繁體中文（台灣）
+                </a>
+            </li>
+            </ul>
+</div>
+
+            </div>
+
+                            <div class="mobile-menu__item mobile-menu__item--search js-click-menu js-react--quick-search" data-click-menu-id="mobile-search">
+                </div>
+
+                <div
+                    class="mobile-menu__item js-click-menu js-react--notification-widget"
+                    data-click-menu-id="mobile-chat-notification"
+                    data-notification-widget="{&quot;only&quot;:&quot;channel&quot;}"
+                    data-visibility="hidden"
+                    data-turbo-permanent
+                    id="notification-widget-chat-mobile"
+                ></div>
+
+                <div
+                    class="mobile-menu__item js-click-menu js-react--notification-widget"
+                    data-click-menu-id="mobile-notification"
+                    data-notification-widget="{&quot;excludes&quot;:[&quot;channel&quot;]}"
+                    data-visibility="hidden"
+                    data-turbo-permanent
+                    id="notification-widget-mobile"
+                ></div>
+                    </div>
+    </div>
+</div>
+
+<div
+    class="
+    js-pinned-header
+    hidden-xs
+    no-print
+    nav2-header
+">
+    <div class="nav2-header__body">
+        <div class="nav2-header__menu-bg js-nav2--menu-bg" data-visibility="hidden"></div>
+        <div class="nav2-header__triangles"></div>
+        <div class="nav2-header__transition-overlay"></div>
+
+        <div class="osu-page">
+            <div class="nav2 js-nav-button">
+    <div class="nav2__colgroup nav2__colgroup--menu js-nav-button--container">
+        <div class="nav2__col nav2__col--logo">
+            <a href="https://osu.ppy.sh" class="nav2__logo-link">
+                <div class="nav2__logo nav2__logo--bg"></div>
+                <div class="nav2__logo"></div>
+            </a>
+        </div>
+
+                    <div class="nav2__col nav2__col--menu">
+                <a
+                    class="nav2__menu-link-main js-menu"
+                    href="https://osu.ppy.sh"
+                    data-menu-target="nav2-menu-popup-home"
+                    data-menu-show-delay="0"
+                >
+                    <span class="u-relative">
+                        Home
+
+                                            </span>
+                </a>
+
+                <div class="nav2__menu-popup">
+                    <div
+                        class="
+                            simple-menu
+                            simple-menu--nav2
+                            simple-menu--nav2-left-aligned
+                            simple-menu--nav2-transparent
+                            js-menu
+                        "
+                        data-menu-id="nav2-menu-popup-home"
+                        data-visibility="hidden"
+                    >
+                                                                                                                                            <a class="simple-menu__item u-section-home--before-bg-normal" href="https://osu.ppy.sh/home/news">
+                                Neuigkeiten
+                            </a>
+                                                                                <a class="simple-menu__item u-section-home--before-bg-normal" href="https://osu.ppy.sh/wiki/de/People/osu%21_team">
+                                Team
+                            </a>
+                                                                                <a class="simple-menu__item u-section-home--before-bg-normal" href="https://osu.ppy.sh/home/changelog">
+                                Änderungsprotokoll
+                            </a>
+                                                                                <a class="simple-menu__item u-section-home--before-bg-normal" href="https://osu.ppy.sh/home/download">
+                                Herunterladen
+                            </a>
+                                                                                <a class="simple-menu__item u-section-home--before-bg-normal" href="https://osu.ppy.sh/home/search">
+                                Suchen
+                            </a>
+                                            </div>
+                </div>
+            </div>
+                    <div class="nav2__col nav2__col--menu">
+                <a
+                    class="nav2__menu-link-main js-menu"
+                    href="https://osu.ppy.sh/beatmapsets"
+                    data-menu-target="nav2-menu-popup-beatmaps"
+                    data-menu-show-delay="0"
+                >
+                    <span class="u-relative">
+                        Beatmaps
+
+                                                    <span class="nav2__menu-link-bar u-section--bg-normal"></span>
+                                            </span>
+                </a>
+
+                <div class="nav2__menu-popup">
+                    <div
+                        class="
+                            simple-menu
+                            simple-menu--nav2
+                            simple-menu--nav2-left-aligned
+                            simple-menu--nav2-transparent
+                            js-menu
+                        "
+                        data-menu-id="nav2-menu-popup-beatmaps"
+                        data-visibility="hidden"
+                    >
+                                                                                <a class="simple-menu__item u-section-beatmaps--before-bg-normal" href="https://osu.ppy.sh/beatmapsets">
+                                Beatmap-Auflistung
+                            </a>
+                                                                                <a class="simple-menu__item u-section-beatmaps--before-bg-normal" href="https://osu.ppy.sh/beatmaps/artists">
+                                Featured Artists
+                            </a>
+                                                                                <a class="simple-menu__item u-section-beatmaps--before-bg-normal" href="https://osu.ppy.sh/beatmaps/packs">
+                                Beatmap-Pakete
+                            </a>
+                                            </div>
+                </div>
+            </div>
+                    <div class="nav2__col nav2__col--menu">
+                <a
+                    class="nav2__menu-link-main js-menu"
+                    href="https://osu.ppy.sh/rankings/osu/global"
+                    data-menu-target="nav2-menu-popup-rankings"
+                    data-menu-show-delay="0"
+                >
+                    <span class="u-relative">
+                        Ranglisten
+
+                                            </span>
+                </a>
+
+                <div class="nav2__menu-popup">
+                    <div
+                        class="
+                            simple-menu
+                            simple-menu--nav2
+                            simple-menu--nav2-left-aligned
+                            simple-menu--nav2-transparent
+                            js-menu
+                        "
+                        data-menu-id="nav2-menu-popup-rankings"
+                        data-visibility="hidden"
+                    >
+                                                                                <a class="simple-menu__item u-section-rankings--before-bg-normal" href="https://osu.ppy.sh/rankings/osu/global">
+                                Global
+                            </a>
+                                                                                <a class="simple-menu__item u-section-rankings--before-bg-normal" href="https://osu.ppy.sh/rankings/osu/country">
+                                Länder
+                            </a>
+                                                                                <a class="simple-menu__item u-section-rankings--before-bg-normal" href="https://osu.ppy.sh/rankings/osu/team">
+                                Teams
+                            </a>
+                                                                                <a class="simple-menu__item u-section-rankings--before-bg-normal" href="https://osu.ppy.sh/multiplayer/rooms/latest">
+                                Mehrspieler
+                            </a>
+                                                                                <a class="simple-menu__item u-section-rankings--before-bg-normal" href="https://osu.ppy.sh/rankings/daily-challenge">
+                                Tägliche Herausforderung
+                            </a>
+                                                                                <a class="simple-menu__item u-section-rankings--before-bg-normal" href="https://osu.ppy.sh/seasons/latest">
+                                Seasons
+                            </a>
+                                                                                <a class="simple-menu__item u-section-rankings--before-bg-normal" href="https://osu.ppy.sh/rankings/osu/charts">
+                                Spotlights (alt)
+                            </a>
+                                                                                <a class="simple-menu__item u-section-rankings--before-bg-normal" href="https://osu.ppy.sh/rankings/kudosu">
+                                Kudosu
+                            </a>
+                                            </div>
+                </div>
+            </div>
+                    <div class="nav2__col nav2__col--menu">
+                <a
+                    class="nav2__menu-link-main js-menu"
+                    href="https://osu.ppy.sh/community/forums"
+                    data-menu-target="nav2-menu-popup-community"
+                    data-menu-show-delay="0"
+                >
+                    <span class="u-relative">
+                        Community
+
+                                            </span>
+                </a>
+
+                <div class="nav2__menu-popup">
+                    <div
+                        class="
+                            simple-menu
+                            simple-menu--nav2
+                            simple-menu--nav2-left-aligned
+                            simple-menu--nav2-transparent
+                            js-menu
+                        "
+                        data-menu-id="nav2-menu-popup-community"
+                        data-visibility="hidden"
+                    >
+                                                                                <a class="simple-menu__item u-section-community--before-bg-normal" href="https://osu.ppy.sh/community/forums">
+                                Forum
+                            </a>
+                                                                                <a class="simple-menu__item u-section-community--before-bg-normal" href="https://osu.ppy.sh/community/chat">
+                                Chat
+                            </a>
+                                                                                <a class="simple-menu__item u-section-community--before-bg-normal" href="https://osu.ppy.sh/community/contests">
+                                Wettbewerbe
+                            </a>
+                                                                                <a class="simple-menu__item u-section-community--before-bg-normal" href="https://osu.ppy.sh/community/tournaments">
+                                Turniere
+                            </a>
+                                                                                <a class="simple-menu__item u-section-community--before-bg-normal" href="https://osu.ppy.sh/community/livestreams">
+                                Liveübertragung
+                            </a>
+                                                                                <a class="simple-menu__item u-section-community--before-bg-normal" href="https://discord.gg/ppy">
+                                Entwicklung
+                            </a>
+                                            </div>
+                </div>
+            </div>
+                    <div class="nav2__col nav2__col--menu">
+                <a
+                    class="nav2__menu-link-main js-menu"
+                    href="https://osu.ppy.sh/store/listing"
+                    data-menu-target="nav2-menu-popup-store"
+                    data-menu-show-delay="0"
+                >
+                    <span class="u-relative">
+                        Store
+
+                                            </span>
+                </a>
+
+                <div class="nav2__menu-popup">
+                    <div
+                        class="
+                            simple-menu
+                            simple-menu--nav2
+                            simple-menu--nav2-left-aligned
+                            simple-menu--nav2-transparent
+                            js-menu
+                        "
+                        data-menu-id="nav2-menu-popup-store"
+                        data-visibility="hidden"
+                    >
+                                                                                <a class="simple-menu__item u-section-store--before-bg-normal" href="https://osu.ppy.sh/store/listing">
+                                Produkte
+                            </a>
+                                                                                <a class="simple-menu__item u-section-store--before-bg-normal" href="https://osu.ppy.sh/store/cart">
+                                Warenkorb
+                            </a>
+                                                                                <a class="simple-menu__item u-section-store--before-bg-normal" href="https://osu.ppy.sh/store/orders">
+                                Bestellverlauf
+                            </a>
+                                            </div>
+                </div>
+            </div>
+                    <div class="nav2__col nav2__col--menu">
+                <a
+                    class="nav2__menu-link-main js-menu"
+                    href="https://osu.ppy.sh/wiki/de/Main_page"
+                    data-menu-target="nav2-menu-popup-help"
+                    data-menu-show-delay="0"
+                >
+                    <span class="u-relative">
+                        Hilfe
+
+                                            </span>
+                </a>
+
+                <div class="nav2__menu-popup">
+                    <div
+                        class="
+                            simple-menu
+                            simple-menu--nav2
+                            simple-menu--nav2-left-aligned
+                            simple-menu--nav2-transparent
+                            js-menu
+                        "
+                        data-menu-id="nav2-menu-popup-help"
+                        data-visibility="hidden"
+                    >
+                                                                                <a class="simple-menu__item u-section-help--before-bg-normal" href="https://osu.ppy.sh/wiki/de/Main_page">
+                                Wiki
+                            </a>
+                                                                                <a class="simple-menu__item u-section-help--before-bg-normal" href="https://osu.ppy.sh/wiki/de/FAQ">
+                                FAQ
+                            </a>
+                                                                                <a class="simple-menu__item u-section-help--before-bg-normal" href="https://osu.ppy.sh/wiki/de/Rules">
+                                Regeln
+                            </a>
+                                                                                <a class="simple-menu__item u-section-help--before-bg-normal" href="https://osu.ppy.sh/wiki/de/Reporting_bad_behaviour/Abuse">
+                                Missbrauch melden
+                            </a>
+                                                                                <a class="simple-menu__item u-section-help--before-bg-normal" href="https://osu.ppy.sh/wiki/de/Help_centre">
+                                Ich brauche wirklich Hilfe!
+                            </a>
+                                            </div>
+                </div>
+            </div>
+        
+        <div class="nav2__col nav2__col--menu js-react--quick-search-button">
+            <a
+                href="https://osu.ppy.sh/home/search"
+                class="
+                    nav2__menu-link-main
+                    nav2__menu-link-main--search
+                    
+                "
+            >
+                <span class="fas fa-search"></span>
+            </a>
+        </div>
+    </div>
+    <div class="nav2__colgroup nav2__colgroup--icons js-nav-button--container">
+        <div class="nav2__col js-nav-button--item">
+            <a
+                href="https://osu.ppy.sh/wiki/Twitter"
+                class="nav-button nav-button--twitter"
+                title="Twitter"
+                data-tooltip-position="bottom center"
+            >
+                <span class="fab fa-twitter"></span>
+            </a>
+        </div>
+
+        <div class="nav2__col">
+            <a
+                href="https://osu.ppy.sh/home/support"
+                class="nav-button nav-button--support"
+                title="Das Spiel unterstützen"
+                data-tooltip-position="bottom center"
+            >
+                <span class="fas fa-heart"></span>
+            </a>
+        </div>
+
+        <div class="nav2__col">
+            <button
+    class="nav-button js-click-menu"
+    data-click-menu-target="nav2-locale-popup"
+>
+    <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e9-1f1ea.svg');"
+></span>
+</button>
+
+<div class="nav-click-popup">
+    <div
+        class="simple-menu simple-menu--nav2 simple-menu--nav2-locales js-click-menu js-nav2--centered-popup"
+        data-click-menu-id="nav2-locale-popup"
+        data-visibility="hidden"
+    >
+        <div class="simple-menu__content">
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=en"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ec-1f1e7.svg');"
+></span>
+                        </span>
+
+                        English
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=ar"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f8-1f1e6.svg');"
+></span>
+                        </span>
+
+                        اَلْعَرَبِيَّةُ‎
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=be"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e7-1f1fe.svg');"
+></span>
+                        </span>
+
+                        беларуская мова
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=bg"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e7-1f1ec.svg');"
+></span>
+                        </span>
+
+                        български
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=ca"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e6-1f1e9.svg');"
+></span>
+                        </span>
+
+                        català
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=cs"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e8-1f1ff.svg');"
+></span>
+                        </span>
+
+                        česky
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=da"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e9-1f1f0.svg');"
+></span>
+                        </span>
+
+                        dansk
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        simple-menu__item--active
+                    "
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e9-1f1ea.svg');"
+></span>
+                        </span>
+
+                        Deutsch
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=el"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ec-1f1f7.svg');"
+></span>
+                        </span>
+
+                        ελληνικά
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=es"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ea-1f1f8.svg');"
+></span>
+                        </span>
+
+                        español
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=fi"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1eb-1f1ee.svg');"
+></span>
+                        </span>
+
+                        suomi
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=fil"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f5-1f1ed.svg');"
+></span>
+                        </span>
+
+                        wikang Filipino
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=fr"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1eb-1f1f7.svg');"
+></span>
+                        </span>
+
+                        français
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=he"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ee-1f1f1.svg');"
+></span>
+                        </span>
+
+                        עִבְרִית‎
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=hu"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ed-1f1fa.svg');"
+></span>
+                        </span>
+
+                        magyar
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=id"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ee-1f1e9.svg');"
+></span>
+                        </span>
+
+                        bahasa Indonesia
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=it"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ee-1f1f9.svg');"
+></span>
+                        </span>
+
+                        italiano
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=ja"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1ef-1f1f5.svg');"
+></span>
+                        </span>
+
+                        日本語
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=ko"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f0-1f1f7.svg');"
+></span>
+                        </span>
+
+                        한국어
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=lt"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f1-1f1f9.svg');"
+></span>
+                        </span>
+
+                        lietuvių kalba
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=nl"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f3-1f1f1.svg');"
+></span>
+                        </span>
+
+                        Nederlands
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=no"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f3-1f1f4.svg');"
+></span>
+                        </span>
+
+                        norsk
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=pl"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f5-1f1f1.svg');"
+></span>
+                        </span>
+
+                        polski
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=pt"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f5-1f1f9.svg');"
+></span>
+                        </span>
+
+                        português
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=pt-br"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e7-1f1f7.svg');"
+></span>
+                        </span>
+
+                        português brasileiro
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=ro"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f7-1f1f4.svg');"
+></span>
+                        </span>
+
+                        română
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=ru"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f7-1f1fa.svg');"
+></span>
+                        </span>
+
+                        русский
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=sk"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f8-1f1f0.svg');"
+></span>
+                        </span>
+
+                        slovenčina
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=sl"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f8-1f1ee.svg');"
+></span>
+                        </span>
+
+                        slovenščina
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=sr"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f7-1f1f8.svg');"
+></span>
+                        </span>
+
+                        српски
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=sv"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f8-1f1ea.svg');"
+></span>
+                        </span>
+
+                        svenska
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=th"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f9-1f1ed.svg');"
+></span>
+                        </span>
+
+                        ไทย
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=tr"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f9-1f1f7.svg');"
+></span>
+                        </span>
+
+                        Türkçe
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=uk"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1fa-1f1e6.svg');"
+></span>
+                        </span>
+
+                        українська мова
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=vi"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1fb-1f1f3.svg');"
+></span>
+                        </span>
+
+                        tiếng Việt
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=zh"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1e8-1f1f3.svg');"
+></span>
+                        </span>
+
+                        简体中文
+                    </span>
+                </button>
+                                            <button
+                    type="button"
+                    class="
+                        simple-menu__item
+                        
+                    "
+                                            data-url="https://osu.ppy.sh/home/set-locale?locale=zh-tw"
+                        data-remote="1"
+                        data-method="POST"
+                                    >
+                    <span class="nav2-locale-item">
+                        <span class="nav2-locale-item__flag">
+                            <span class="flag-country flag-country--flat"
+        style="background-image: url('/assets/images/flags/1f1f9-1f1fc.svg');"
+></span>
+                        </span>
+
+                        繁體中文（台灣）
+                    </span>
+                </button>
+                    </div>
+    </div>
+</div>
+
+        </div>
+
+                    <div class="nav2__col nav2__col--notifications">
+                <div class="nav2__notification-container">
+                    <a
+                        class="nav-button nav-button--notifications js-click-menu js-react--chat-icon"
+                        data-click-menu-target="nav2-chat-notification-widget"
+                        data-turbo-permanent
+                        id="notification-widget-chat-icon"
+                        href="https://osu.ppy.sh/community/chat"
+                    >
+                        <span class="notification-icon">
+                            <i class="fas fa-comment-alt"></i>
+                            <span class="notification-icon__count">...</span>
+                        </span>
+                    </a>
+                    <div
+                        class="nav-click-popup js-click-menu js-react--notification-widget"
+                        data-click-menu-id="nav2-chat-notification-widget"
+                        data-visibility="hidden"
+                        data-notification-widget="{&quot;extraClasses&quot;:&quot;js-nav2--centered-popup hidden&quot;,&quot;only&quot;:&quot;channel&quot;}"
+                        data-turbo-permanent
+                        id="notification-widget-chat"
+                    ></div>
+
+                    <a
+                        class="nav-button nav-button--notifications js-click-menu js-react--main-notification-icon"
+                        data-click-menu-target="nav2-notification-widget"
+                        data-turbo-permanent
+                        id="notification-widget-icon"
+                        href="https://osu.ppy.sh/notifications"
+                    >
+                        <span class="notification-icon">
+                            <i class="fas fa-bell"></i>
+                            <span class="notification-icon__count">...</span>
+                        </span>
+                    </a>
+                    <div
+                        class="nav-click-popup js-click-menu js-react--notification-widget"
+                        data-click-menu-id="nav2-notification-widget"
+                        data-visibility="hidden"
+                        data-notification-widget="{&quot;extraClasses&quot;:&quot;js-nav2--centered-popup hidden&quot;,&quot;excludes&quot;:[&quot;channel&quot;]}"
+                        data-turbo-permanent
+                        id="notification-widget"
+                    ></div>
+                </div>
+            </div>
+        
+        <div class="nav2__col nav2__col--avatar">
+            <a
+        class="avatar
+        avatar--nav2
+        js-current-user-avatar
+        js-click-menu
+        js-user-login--menu
+        js-user-header avatar--restricted"
+        data-click-menu-target="nav2-user-popup"
+        href="https://osu.ppy.sh/users/18849302"
+         style="background-image:url('https://a.ppy.sh/18849302?1731282423.jpeg');" 
+    ></a>
+
+            <div class="nav-click-popup nav-click-popup--user js-user-header-popup">
+                                    <div
+    class="simple-menu simple-menu--nav2 js-click-menu js-nav2--centered-popup"
+    data-click-menu-id="nav2-user-popup"
+    data-visibility="hidden"
+>
+    <a
+        href="https://osu.ppy.sh/users/18849302"
+        class="simple-menu__header simple-menu__header--link js-current-user-cover"
+         style="background-image:url('https://assets.ppy.sh/user-profile-covers/18849302/240b7821c772b58dcba1dcb4a883263dc171678b5e20d015e8d6992fef72091f.png');" 
+    >
+        <img class="simple-menu__header-icon" src="/images/icons/profile.svg" alt="">
+        <div class="u-relative">UwU Lena</div>
+    </a>
+
+    <div class="simple-menu__extra">
+        <button
+    class="simple-menu__item"
+    type="button"
+    data-url="https://osu.ppy.sh/home/account/options?user_profile_customization%5Blegacy_score_only%5D=0"
+    data-method="PUT"
+    data-remote="1"
+    data-reload-on-success="1"
+    title="Der Lazer-Modus zeigt Scores aus Lazer mit einem neuen Bewertungsalgorithmus an."
+>
+    <span>
+        <span class="far fa-square"></span>
+        Lazer-Modus
+    </span>
+</button>
+
+    </div>
+
+    <a
+        class="simple-menu__item"
+        href="https://osu.ppy.sh/users/18849302"
+    >
+        Mein Profil
+    </a>
+
+            <a class="simple-menu__item" href="https://osu.ppy.sh/teams/create">
+            Mein Team
+        </a>
+    
+    <a class="simple-menu__item" href="https://osu.ppy.sh/home/friends">
+        Freunde
+    </a>
+
+    <a class="simple-menu__item" href="https://osu.ppy.sh/home/follows/forum_topic">
+        Merklisten
+    </a>
+
+    <a class="simple-menu__item" href="https://osu.ppy.sh/home/account/edit">
+        Einstellungen
+    </a>
+
+    <button
+        class="js-logout-link simple-menu__item"
+        type="button"
+        data-url="https://osu.ppy.sh/session"
+        data-confirm="Sicher, dass du dich ausloggen willst? :("
+        data-method="delete"
+        data-remote="1"
+    >
+        Ausloggen
+    </button>
+</div>
+                            </div>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+    <div class="js-pinned-header-sticky sticky-header js-sync-height--reference"
+     data-sync-height-target="sticky-header"
+     data-visibility="hidden"
+     data-visibility-animation="none"
+>
+    <div class="osu-page">
+        
+        
+            </div>
+</div>
+</div>
+
+
+
+<div class="js-user-verification--reference"></div>
+
+            <div
+                class="osu-page osu-page--notification-banners js-notification-banners js-sync-height--reference"
+                data-sync-height-target="notification-banners"
+            >
+                    <div class="notification-banner-v2 notification-banner-v2--alert">
+        <div class="notification-banner-v2__col notification-banner-v2__col--icon"></div>
+
+        <div class="notification-banner-v2__col notification-banner-v2__col--label">
+            <div class="notification-banner-v2__type">alert</div>
+            <div class="notification-banner-v2__text">Dein Account wurde restricted!</div>
+        </div>
+
+        <div class="notification-banner-v2__col">
+            <div class="notification-banner-v2__text">
+                Während einer Sperrung kannst du nicht mit anderen Spielern interagieren und deine Ranglistenscores sind nur für dich sichtbar. Dies passiert normalerweise durch einen automatischen Prozess und wird üblicherweise innerhalb von 24 Stunden aufgehoben. <a href="https://osu.ppy.sh/wiki/Help_centre/Account_restrictions">Siehe hier für weitere Informationen.</a>
+            </div>
+        </div>
+    </div>
+            </div>
+                <div class="osu-layout__section osu-layout__section--full">
+                <div class="js-react--beatmapset-page u-contents"></div>
+            </div>
+                    <!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe.
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides.
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button type="button" class="pswp__button pswp__button--close" title="Schließen (Esc)"></button>
+
+                <button type="button" class="pswp__button pswp__button--fs" title="Vollbild umschalten"></button>
+
+                <button type="button" class="pswp__button pswp__button--zoom" title="Vergrößern/Verkleinern"></button>
+
+                <div class="js-pswp-buttons"></div>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get modifier active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button type="button" class="pswp__button pswp__button--arrow--left" title="Vorheriges (Pfeil links)">
+            </button>
+
+            <button type="button" class="pswp__button pswp__button--arrow--right" title="Weiter (Pfeil rechts)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+            <footer class="no-print footer">
+            <div class="footer__row">
+                            <a class="footer__link" href="https://osu.ppy.sh/wiki/de/Rules">
+                    Rules
+                </a>
+                            <a class="footer__link" href="https://osu.ppy.sh/legal/de/Terms">
+                    Nutzungsbedingungen
+                </a>
+                            <a class="footer__link" href="https://osu.ppy.sh/legal/de/Privacy">
+                    Privatsphäre
+                </a>
+                            <a class="footer__link" href="https://osu.ppy.sh/legal/de/Copyright">
+                    Urheberrecht (DMCA)
+                </a>
+                            <a class="footer__link" href="https://status.ppy.sh">
+                    Serverstatus
+                </a>
+                            <a class="footer__link" href="https://github.com/ppy">
+                    Quellcode
+                </a>
+            
+                    </div>
+        <div class="footer__row">ppy powered 2007-2025</div>
+
+    <div class="js-sync-height--target" data-sync-height-id="permanent-fixed-footer"></div>
+</footer>
+        
+        <div
+            class="fixed-bar
+                js-fixed-element
+                js-fixed-bottom-bar
+                js-sticky-footer--fixed-bar"
+        >
+            <div
+                class="js-permanent-fixed-footer
+                    js-sync-height--reference"
+                data-sync-height-target="permanent-fixed-footer"
+            >
+                
+                            </div>
+        </div>
+
+        <div id="main-player" class="audio-player-floating" data-turbo-permanent>
+            <div class="js-audio--main"></div>
+            <div class="js-sync-height--target" data-sync-height-id="permanent-fixed-footer"></div>
+        </div>
+        
+        <div id="estimate-min-lines" class="estimate-min-lines" data-turbo-permanent>
+            <div class="estimate-min-lines__content js-estimate-min-lines"></div>
+        </div>
+        <script data-turbo-eval="always">
+    var csrf = "YeDgnnIu8L1WaLt2GNCQ1lTni3ZnlIBi5wkURpxS";
+    var canonicalUrl = "";
+</script>
+
+<script id="json-current-user" type="application/json">
+    {"avatar_url":"https:\/\/a.ppy.sh\/18849302?1731282423.jpeg","country_code":"DE","default_group":"default","id":18849302,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":true,"is_supporter":false,"last_visit":"2025-06-09T11:22:58+00:00","pm_friends_only":false,"profile_colour":null,"username":"UwU Lena","cover_url":"https:\/\/assets.ppy.sh\/user-profile-covers\/18849302\/240b7821c772b58dcba1dcb4a883263dc171678b5e20d015e8d6992fef72091f.png","discord":"uwu.lena.uwu","has_supported":true,"interests":"the death","join_date":"2020-10-11T05:13:48+00:00","location":"lonliness","max_blocks":100,"max_friends":500,"occupation":"have no life","playmode":"osu","playstyle":["keyboard","tablet"],"post_count":3,"profile_hue":28,"profile_order":["recent_activity","me","top_ranks","historical","beatmaps","medals","kudosu"],"title":null,"title_url":null,"twitter":"Zelda28189561","website":"https:\/\/www.twitch.tv\/zelda_0su","country":{"code":"DE","name":"Germany"},"cover":{"custom_url":"https:\/\/assets.ppy.sh\/user-profile-covers\/18849302\/240b7821c772b58dcba1dcb4a883263dc171678b5e20d015e8d6992fef72091f.png","url":"https:\/\/assets.ppy.sh\/user-profile-covers\/18849302\/240b7821c772b58dcba1dcb4a883263dc171678b5e20d015e8d6992fef72091f.png","id":null},"is_admin":false,"is_bng":false,"is_full_bn":false,"is_gmt":false,"is_limited_bn":false,"is_moderator":false,"is_nat":false,"is_restricted":true,"is_silenced":true,"kudosu":{"available":0,"total":0},"blocks":[],"follow_user_mapping":[416662,3717598,4452992,10840806],"friends":[{"target_id":2,"relation_type":"friend","mutual":true},{"target_id":3,"relation_type":"friend","mutual":true},{"target_id":39828,"relation_type":"friend","mutual":false},{"target_id":124493,"relation_type":"friend","mutual":false},{"target_id":416662,"relation_type":"friend","mutual":false},{"target_id":754565,"relation_type":"friend","mutual":false},{"target_id":943456,"relation_type":"friend","mutual":false},{"target_id":1199528,"relation_type":"friend","mutual":false},{"target_id":1327122,"relation_type":"friend","mutual":true},{"target_id":1650010,"relation_type":"friend","mutual":false},{"target_id":2070907,"relation_type":"friend","mutual":false},{"target_id":2447934,"relation_type":"friend","mutual":false},{"target_id":2474015,"relation_type":"friend","mutual":false},{"target_id":2498222,"relation_type":"friend","mutual":false},{"target_id":2616163,"relation_type":"friend","mutual":false},{"target_id":2766034,"relation_type":"friend","mutual":true},{"target_id":3115283,"relation_type":"friend","mutual":false},{"target_id":3117632,"relation_type":"friend","mutual":false},{"target_id":3171691,"relation_type":"friend","mutual":false},{"target_id":3249839,"relation_type":"friend","mutual":false},{"target_id":3717598,"relation_type":"friend","mutual":false},{"target_id":3741057,"relation_type":"friend","mutual":false},{"target_id":3836227,"relation_type":"friend","mutual":false},{"target_id":3993236,"relation_type":"friend","mutual":true},{"target_id":4175698,"relation_type":"friend","mutual":false},{"target_id":4393283,"relation_type":"friend","mutual":true},{"target_id":4504101,"relation_type":"friend","mutual":false},{"target_id":4671199,"relation_type":"friend","mutual":false},{"target_id":4751678,"relation_type":"friend","mutual":false},{"target_id":4761964,"relation_type":"friend","mutual":true},{"target_id":4780986,"relation_type":"friend","mutual":true},{"target_id":4787150,"relation_type":"friend","mutual":false},{"target_id":4794861,"relation_type":"friend","mutual":false},{"target_id":4876862,"relation_type":"friend","mutual":true},{"target_id":5033077,"relation_type":"friend","mutual":false},{"target_id":5199332,"relation_type":"friend","mutual":true},{"target_id":5371497,"relation_type":"friend","mutual":false},{"target_id":5444914,"relation_type":"friend","mutual":false},{"target_id":6274051,"relation_type":"friend","mutual":true},{"target_id":6304246,"relation_type":"friend","mutual":false},{"target_id":6371398,"relation_type":"friend","mutual":false},{"target_id":6537744,"relation_type":"friend","mutual":true},{"target_id":6896883,"relation_type":"friend","mutual":false},{"target_id":6993643,"relation_type":"friend","mutual":true},{"target_id":7025429,"relation_type":"friend","mutual":false},{"target_id":7127019,"relation_type":"friend","mutual":false},{"target_id":7236281,"relation_type":"friend","mutual":false},{"target_id":7342622,"relation_type":"friend","mutual":false},{"target_id":7370848,"relation_type":"friend","mutual":false},{"target_id":7413894,"relation_type":"friend","mutual":true},{"target_id":7544980,"relation_type":"friend","mutual":false},{"target_id":7562902,"relation_type":"friend","mutual":false},{"target_id":7629904,"relation_type":"friend","mutual":false},{"target_id":7737096,"relation_type":"friend","mutual":false},{"target_id":7813300,"relation_type":"friend","mutual":true},{"target_id":7813432,"relation_type":"friend","mutual":false},{"target_id":7824063,"relation_type":"friend","mutual":false},{"target_id":7855652,"relation_type":"friend","mutual":false},{"target_id":7943353,"relation_type":"friend","mutual":true},{"target_id":8084370,"relation_type":"friend","mutual":false},{"target_id":8105655,"relation_type":"friend","mutual":false},{"target_id":8116659,"relation_type":"friend","mutual":false},{"target_id":8171561,"relation_type":"friend","mutual":true},{"target_id":8268978,"relation_type":"friend","mutual":true},{"target_id":8275006,"relation_type":"friend","mutual":false},{"target_id":8315266,"relation_type":"friend","mutual":false},{"target_id":8369887,"relation_type":"friend","mutual":false},{"target_id":8431512,"relation_type":"friend","mutual":false},{"target_id":8527091,"relation_type":"friend","mutual":false},{"target_id":8533385,"relation_type":"friend","mutual":false},{"target_id":8640970,"relation_type":"friend","mutual":false},{"target_id":8658514,"relation_type":"friend","mutual":false},{"target_id":8678616,"relation_type":"friend","mutual":false},{"target_id":8712569,"relation_type":"friend","mutual":true},{"target_id":8741695,"relation_type":"friend","mutual":false},{"target_id":8747957,"relation_type":"friend","mutual":false},{"target_id":8757584,"relation_type":"friend","mutual":false},{"target_id":8872060,"relation_type":"friend","mutual":true},{"target_id":9159168,"relation_type":"friend","mutual":false},{"target_id":9182567,"relation_type":"friend","mutual":false},{"target_id":9224078,"relation_type":"friend","mutual":false},{"target_id":9254536,"relation_type":"friend","mutual":false},{"target_id":9269034,"relation_type":"friend","mutual":false},{"target_id":9433144,"relation_type":"friend","mutual":false},{"target_id":9602118,"relation_type":"friend","mutual":true},{"target_id":9820253,"relation_type":"friend","mutual":false},{"target_id":9833890,"relation_type":"friend","mutual":true},{"target_id":9849451,"relation_type":"friend","mutual":true},{"target_id":9915240,"relation_type":"friend","mutual":false},{"target_id":9990607,"relation_type":"friend","mutual":true},{"target_id":10080990,"relation_type":"friend","mutual":false},{"target_id":10290641,"relation_type":"friend","mutual":false},{"target_id":10323184,"relation_type":"friend","mutual":false},{"target_id":10356181,"relation_type":"friend","mutual":false},{"target_id":10369473,"relation_type":"friend","mutual":false},{"target_id":10549880,"relation_type":"friend","mutual":false},{"target_id":10783597,"relation_type":"friend","mutual":false},{"target_id":10840806,"relation_type":"friend","mutual":false},{"target_id":10929416,"relation_type":"friend","mutual":false},{"target_id":11002866,"relation_type":"friend","mutual":false},{"target_id":11147278,"relation_type":"friend","mutual":false},{"target_id":11181560,"relation_type":"friend","mutual":true},{"target_id":11367222,"relation_type":"friend","mutual":false},{"target_id":11443437,"relation_type":"friend","mutual":false},{"target_id":11519492,"relation_type":"friend","mutual":false},{"target_id":11590355,"relation_type":"friend","mutual":true},{"target_id":11660870,"relation_type":"friend","mutual":true},{"target_id":11684622,"relation_type":"friend","mutual":false},{"target_id":11711159,"relation_type":"friend","mutual":false},{"target_id":11718072,"relation_type":"friend","mutual":true},{"target_id":11760440,"relation_type":"friend","mutual":true},{"target_id":12179510,"relation_type":"friend","mutual":true},{"target_id":12210732,"relation_type":"friend","mutual":false},{"target_id":12314814,"relation_type":"friend","mutual":true},{"target_id":12408961,"relation_type":"friend","mutual":false},{"target_id":12528614,"relation_type":"friend","mutual":true},{"target_id":12551750,"relation_type":"friend","mutual":true},{"target_id":12762980,"relation_type":"friend","mutual":true},{"target_id":12783604,"relation_type":"friend","mutual":true},{"target_id":12952320,"relation_type":"friend","mutual":true},{"target_id":12959650,"relation_type":"friend","mutual":false},{"target_id":13225194,"relation_type":"friend","mutual":false},{"target_id":13234370,"relation_type":"friend","mutual":true},{"target_id":13300203,"relation_type":"friend","mutual":true},{"target_id":13312320,"relation_type":"friend","mutual":true},{"target_id":13480145,"relation_type":"friend","mutual":false},{"target_id":13627888,"relation_type":"friend","mutual":true},{"target_id":13798584,"relation_type":"friend","mutual":true},{"target_id":13817114,"relation_type":"friend","mutual":false},{"target_id":13827978,"relation_type":"friend","mutual":true},{"target_id":13916788,"relation_type":"friend","mutual":true},{"target_id":14034142,"relation_type":"friend","mutual":false},{"target_id":14106450,"relation_type":"friend","mutual":false},{"target_id":14181832,"relation_type":"friend","mutual":true},{"target_id":14239691,"relation_type":"friend","mutual":true},{"target_id":14298581,"relation_type":"friend","mutual":true},{"target_id":14351782,"relation_type":"friend","mutual":true},{"target_id":14380198,"relation_type":"friend","mutual":true},{"target_id":14404978,"relation_type":"friend","mutual":true},{"target_id":14479677,"relation_type":"friend","mutual":false},{"target_id":14609270,"relation_type":"friend","mutual":false},{"target_id":14661718,"relation_type":"friend","mutual":false},{"target_id":14808140,"relation_type":"friend","mutual":false},{"target_id":14868852,"relation_type":"friend","mutual":true},{"target_id":14926905,"relation_type":"friend","mutual":false},{"target_id":14944392,"relation_type":"friend","mutual":true},{"target_id":14963905,"relation_type":"friend","mutual":true},{"target_id":14980689,"relation_type":"friend","mutual":false},{"target_id":15000319,"relation_type":"friend","mutual":false},{"target_id":15069287,"relation_type":"friend","mutual":true},{"target_id":15082538,"relation_type":"friend","mutual":false},{"target_id":15171585,"relation_type":"friend","mutual":true},{"target_id":15406985,"relation_type":"friend","mutual":false},{"target_id":15621610,"relation_type":"friend","mutual":true},{"target_id":15637990,"relation_type":"friend","mutual":true},{"target_id":15653962,"relation_type":"friend","mutual":false},{"target_id":15688413,"relation_type":"friend","mutual":true},{"target_id":15856298,"relation_type":"friend","mutual":false},{"target_id":15935685,"relation_type":"friend","mutual":false},{"target_id":15954324,"relation_type":"friend","mutual":true},{"target_id":15984187,"relation_type":"friend","mutual":false},{"target_id":16147953,"relation_type":"friend","mutual":true},{"target_id":16358749,"relation_type":"friend","mutual":false},{"target_id":16386253,"relation_type":"friend","mutual":true},{"target_id":16395731,"relation_type":"friend","mutual":true},{"target_id":16438017,"relation_type":"friend","mutual":false},{"target_id":16569325,"relation_type":"friend","mutual":false},{"target_id":16664248,"relation_type":"friend","mutual":true},{"target_id":16725672,"relation_type":"friend","mutual":true},{"target_id":16727203,"relation_type":"friend","mutual":false},{"target_id":16927735,"relation_type":"friend","mutual":false},{"target_id":16969775,"relation_type":"friend","mutual":true},{"target_id":16970075,"relation_type":"friend","mutual":false},{"target_id":17115940,"relation_type":"friend","mutual":false},{"target_id":17263271,"relation_type":"friend","mutual":true},{"target_id":17303784,"relation_type":"friend","mutual":true},{"target_id":17343607,"relation_type":"friend","mutual":true},{"target_id":17418181,"relation_type":"friend","mutual":false},{"target_id":17449596,"relation_type":"friend","mutual":true},{"target_id":17488247,"relation_type":"friend","mutual":true},{"target_id":17520672,"relation_type":"friend","mutual":true},{"target_id":17542514,"relation_type":"friend","mutual":false},{"target_id":17563939,"relation_type":"friend","mutual":true},{"target_id":17614541,"relation_type":"friend","mutual":true},{"target_id":17624158,"relation_type":"friend","mutual":false},{"target_id":18257368,"relation_type":"friend","mutual":false},{"target_id":18386465,"relation_type":"friend","mutual":false},{"target_id":18424454,"relation_type":"friend","mutual":false},{"target_id":18510108,"relation_type":"friend","mutual":false},{"target_id":18568674,"relation_type":"friend","mutual":false},{"target_id":18814781,"relation_type":"friend","mutual":true},{"target_id":18927481,"relation_type":"friend","mutual":true},{"target_id":19132590,"relation_type":"friend","mutual":true},{"target_id":19135340,"relation_type":"friend","mutual":false},{"target_id":19139851,"relation_type":"friend","mutual":false},{"target_id":19260074,"relation_type":"friend","mutual":false},{"target_id":19319763,"relation_type":"friend","mutual":true},{"target_id":19451718,"relation_type":"friend","mutual":true},{"target_id":19458393,"relation_type":"friend","mutual":true},{"target_id":19526504,"relation_type":"friend","mutual":true},{"target_id":19630095,"relation_type":"friend","mutual":false},{"target_id":19662107,"relation_type":"friend","mutual":true},{"target_id":19811525,"relation_type":"friend","mutual":false},{"target_id":19821746,"relation_type":"friend","mutual":false},{"target_id":19896360,"relation_type":"friend","mutual":true},{"target_id":20029791,"relation_type":"friend","mutual":true},{"target_id":20178628,"relation_type":"friend","mutual":false},{"target_id":20207375,"relation_type":"friend","mutual":false},{"target_id":20268481,"relation_type":"friend","mutual":false},{"target_id":20415440,"relation_type":"friend","mutual":false},{"target_id":20642867,"relation_type":"friend","mutual":true},{"target_id":20679024,"relation_type":"friend","mutual":false},{"target_id":20683322,"relation_type":"friend","mutual":true},{"target_id":20707599,"relation_type":"friend","mutual":true},{"target_id":20757380,"relation_type":"friend","mutual":false},{"target_id":20794916,"relation_type":"friend","mutual":false},{"target_id":20876297,"relation_type":"friend","mutual":false},{"target_id":21033970,"relation_type":"friend","mutual":true},{"target_id":21130820,"relation_type":"friend","mutual":true},{"target_id":21168540,"relation_type":"friend","mutual":false},{"target_id":21184078,"relation_type":"friend","mutual":true},{"target_id":21244860,"relation_type":"friend","mutual":true},{"target_id":21262042,"relation_type":"friend","mutual":false},{"target_id":21309327,"relation_type":"friend","mutual":false},{"target_id":21372432,"relation_type":"friend","mutual":true},{"target_id":21443614,"relation_type":"friend","mutual":false},{"target_id":21470831,"relation_type":"friend","mutual":true},{"target_id":21501700,"relation_type":"friend","mutual":true},{"target_id":21753287,"relation_type":"friend","mutual":true},{"target_id":21812785,"relation_type":"friend","mutual":true},{"target_id":21855554,"relation_type":"friend","mutual":false},{"target_id":21937945,"relation_type":"friend","mutual":true},{"target_id":21975334,"relation_type":"friend","mutual":false},{"target_id":22039944,"relation_type":"friend","mutual":false},{"target_id":22154351,"relation_type":"friend","mutual":false},{"target_id":22185039,"relation_type":"friend","mutual":true},{"target_id":22278633,"relation_type":"friend","mutual":true},{"target_id":22304281,"relation_type":"friend","mutual":false},{"target_id":22399263,"relation_type":"friend","mutual":false},{"target_id":22497376,"relation_type":"friend","mutual":false},{"target_id":22571789,"relation_type":"friend","mutual":false},{"target_id":22617279,"relation_type":"friend","mutual":true},{"target_id":22650497,"relation_type":"friend","mutual":false},{"target_id":22758440,"relation_type":"friend","mutual":false},{"target_id":22760324,"relation_type":"friend","mutual":true},{"target_id":22785166,"relation_type":"friend","mutual":true},{"target_id":22785173,"relation_type":"friend","mutual":false},{"target_id":22834679,"relation_type":"friend","mutual":false},{"target_id":23120475,"relation_type":"friend","mutual":true},{"target_id":23206591,"relation_type":"friend","mutual":true},{"target_id":23212581,"relation_type":"friend","mutual":false},{"target_id":23233762,"relation_type":"friend","mutual":false},{"target_id":23355424,"relation_type":"friend","mutual":true},{"target_id":23403089,"relation_type":"friend","mutual":true},{"target_id":23404226,"relation_type":"friend","mutual":true},{"target_id":23406978,"relation_type":"friend","mutual":true},{"target_id":23410193,"relation_type":"friend","mutual":false},{"target_id":23500549,"relation_type":"friend","mutual":true},{"target_id":23513430,"relation_type":"friend","mutual":false},{"target_id":23867617,"relation_type":"friend","mutual":true},{"target_id":24215209,"relation_type":"friend","mutual":true},{"target_id":24219427,"relation_type":"friend","mutual":true},{"target_id":24270105,"relation_type":"friend","mutual":false},{"target_id":24331963,"relation_type":"friend","mutual":false},{"target_id":24400355,"relation_type":"friend","mutual":false},{"target_id":24519779,"relation_type":"friend","mutual":false},{"target_id":24796908,"relation_type":"friend","mutual":true},{"target_id":25142025,"relation_type":"friend","mutual":false},{"target_id":25166021,"relation_type":"friend","mutual":true},{"target_id":25278225,"relation_type":"friend","mutual":false},{"target_id":25397343,"relation_type":"friend","mutual":false},{"target_id":25405941,"relation_type":"friend","mutual":true},{"target_id":25453473,"relation_type":"friend","mutual":true},{"target_id":25550599,"relation_type":"friend","mutual":true},{"target_id":25583762,"relation_type":"friend","mutual":false},{"target_id":25992140,"relation_type":"friend","mutual":true},{"target_id":26038183,"relation_type":"friend","mutual":true},{"target_id":26241924,"relation_type":"friend","mutual":true},{"target_id":26418132,"relation_type":"friend","mutual":false},{"target_id":26445579,"relation_type":"friend","mutual":true},{"target_id":26686310,"relation_type":"friend","mutual":true},{"target_id":26991810,"relation_type":"friend","mutual":false},{"target_id":27422840,"relation_type":"friend","mutual":true},{"target_id":27514055,"relation_type":"friend","mutual":true},{"target_id":27682613,"relation_type":"friend","mutual":false},{"target_id":27698699,"relation_type":"friend","mutual":true},{"target_id":27882692,"relation_type":"friend","mutual":true},{"target_id":27885990,"relation_type":"friend","mutual":true},{"target_id":28285685,"relation_type":"friend","mutual":false},{"target_id":28377066,"relation_type":"friend","mutual":false},{"target_id":28584930,"relation_type":"friend","mutual":false},{"target_id":28606313,"relation_type":"friend","mutual":false},{"target_id":28842348,"relation_type":"friend","mutual":false},{"target_id":28892618,"relation_type":"friend","mutual":false},{"target_id":29141676,"relation_type":"friend","mutual":false},{"target_id":29296982,"relation_type":"friend","mutual":false},{"target_id":29424286,"relation_type":"friend","mutual":true},{"target_id":29429550,"relation_type":"friend","mutual":true},{"target_id":29584491,"relation_type":"friend","mutual":false},{"target_id":29612672,"relation_type":"friend","mutual":false},{"target_id":29842642,"relation_type":"friend","mutual":false},{"target_id":31050083,"relation_type":"friend","mutual":false},{"target_id":31276067,"relation_type":"friend","mutual":false},{"target_id":31303676,"relation_type":"friend","mutual":false},{"target_id":31542121,"relation_type":"friend","mutual":false},{"target_id":31659654,"relation_type":"friend","mutual":true},{"target_id":32099018,"relation_type":"friend","mutual":false},{"target_id":33272061,"relation_type":"friend","mutual":true},{"target_id":33443467,"relation_type":"friend","mutual":false},{"target_id":34205803,"relation_type":"friend","mutual":true},{"target_id":34435262,"relation_type":"friend","mutual":true},{"target_id":34584722,"relation_type":"friend","mutual":false},{"target_id":35366023,"relation_type":"friend","mutual":true},{"target_id":36193718,"relation_type":"friend","mutual":false},{"target_id":37149332,"relation_type":"friend","mutual":false}],"groups":[],"team":null,"unread_pm_count":0,"user_preferences":{"audio_autoplay":true,"audio_muted":false,"audio_volume":0.6,"beatmapset_card_size":"extra","beatmapset_download":"direct","beatmapset_show_nsfw":true,"beatmapset_title_show_original":false,"comments_show_deleted":false,"forum_posts_show_deleted":true,"legacy_score_only":true,"profile_cover_expanded":true,"scoring_mode":"standardised","user_list_filter":"all","user_list_sort":"rank","user_list_view":"brick"}}
+</script>
+<script>
+    
+    if (!osuCore.firstCurrentUserSet) {
+        osuCore.firstCurrentUserSet = true;
+        osuCore.updateCurrentUser();
+    }
+</script>
+        <div class="loading-overlay js-loading-overlay">
+    <div class="loading-overlay__container">
+                    <div class="loading-overlay__follow-point
+                    loading-overlay__follow-point--1">
+                ›
+            </div>
+
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--1
+                        loading-overlay__circle--approach"
+                ></div>
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--1
+                        loading-overlay__circle--hit"
+                ></div>
+                                <div class="loading-overlay__follow-point
+                    loading-overlay__follow-point--2">
+                ›
+            </div>
+
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--2
+                        loading-overlay__circle--approach"
+                ></div>
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--2
+                        loading-overlay__circle--hit"
+                ></div>
+                                <div class="loading-overlay__follow-point
+                    loading-overlay__follow-point--3">
+                ›
+            </div>
+
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--3
+                        loading-overlay__circle--approach"
+                ></div>
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--3
+                        loading-overlay__circle--hit"
+                ></div>
+                                <div class="loading-overlay__follow-point
+                    loading-overlay__follow-point--4">
+                ›
+            </div>
+
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--4
+                        loading-overlay__circle--approach"
+                ></div>
+                            <div class="loading-overlay__circle
+                        loading-overlay__circle--4
+                        loading-overlay__circle--hit"
+                ></div>
+                        </div>
+</div>
+        <div id="popup-container">
+    <div class="alert alert-dismissable popup-clone col-md-6 col-md-offset-3 text-center" style="display: none">
+        <span class="popup-text"></span>
+    </div>
+
+    </div>
+
+        <script id="json-route-section" type="application/json">
+            {"action":"show","controller":"beatmapsets_controller","namespace":"main","section":"beatmaps"}
+        </script>
+
+                
+    <div class="js-user-verification modal fade" tabindex="-1">
+        <div class="modal-dialog modal-dialog--full">
+            <div class="osu-page">
+                <div class="user-verification-popup js-user-verification--box">
+                                    </div>
+            </div>
+        </div>
+    </div>
+
+    <script id="json-beatmapset" type="application/json">
+        {"artist":"chelmico","artist_unicode":"chelmico","covers":{"cover":"https:\/\/assets.ppy.sh\/beatmaps\/1863225\/covers\/cover.jpg?1748758370","cover@2x":"https:\/\/assets.ppy.sh\/beatmaps\/1863225\/covers\/cover@2x.jpg?1748758370","card":"https:\/\/assets.ppy.sh\/beatmaps\/1863225\/covers\/card.jpg?1748758370","card@2x":"https:\/\/assets.ppy.sh\/beatmaps\/1863225\/covers\/card@2x.jpg?1748758370","list":"https:\/\/assets.ppy.sh\/beatmaps\/1863225\/covers\/list.jpg?1748758370","list@2x":"https:\/\/assets.ppy.sh\/beatmaps\/1863225\/covers\/list@2x.jpg?1748758370","slimcover":"https:\/\/assets.ppy.sh\/beatmaps\/1863225\/covers\/slimcover.jpg?1748758370","slimcover@2x":"https:\/\/assets.ppy.sh\/beatmaps\/1863225\/covers\/slimcover@2x.jpg?1748758370"},"creator":"melleganol","favourite_count":5,"genre_id":9,"hype":null,"id":1863225,"language_id":3,"nsfw":false,"offset":0,"play_count":1235,"preview_url":"\/\/b.ppy.sh\/preview\/1863225.mp3","source":"\u6620\u50cf\u7814\u306b\u306f\u624b\u3092\u51fa\u3059\u306a\uff01","spotlight":false,"status":"ranked","title":"Easy Breezy","title_unicode":"Easy Breezy","track_id":null,"user_id":16452371,"video":true,"bpm":186,"can_be_hyped":false,"deleted_at":null,"discussion_enabled":true,"discussion_locked":false,"is_scoreable":true,"last_updated":"2025-06-01T06:12:25Z","legacy_thread_url":"https:\/\/osu.ppy.sh\/community\/forums\/topics\/1657856","nominations_summary":{"current":2,"eligible_main_rulesets":["osu"],"required_meta":{"main_ruleset":2,"non_main_ruleset":1}},"ranked":1,"ranked_date":"2025-06-09T07:20:49Z","rating":7.6,"storyboard":false,"submitted_date":"2022-10-09T15:42:07Z","tags":"keep your hands off the motion pictures club! ryo takahashi eizouken ni wa te o dasu na! \u30c1\u30a7\u30eb\u30df\u30b3 \u9ad8\u6a4b\u8ad2 rachel mamiko anime japanese hip hop hiphop hip-hop pop jpop j-pop rap op opening female vocals duo pepekcz kyutei anya melfissa shingyouji yuni","availability":{"download_disabled":false,"more_information":null},"has_favourited":false,"beatmaps":[{"beatmapset_id":1863225,"difficulty_rating":2.56,"id":3914997,"mode":"osu","status":"ranked","total_length":196,"user_id":16452371,"version":"Normal","accuracy":4.5,"ar":5.5,"bpm":186,"convert":false,"count_circles":187,"count_sliders":217,"count_spinners":1,"cs":3.4,"deleted_at":null,"drain":3,"hit_length":171,"is_scoreable":true,"last_updated":"2025-06-01T06:12:26Z","mode_int":0,"passcount":30,"playcount":117,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3914997","checksum":"ee634673f264aabffd76cdeefdb3e8e4","current_user_playcount":0,"current_user_tag_ids":[],"failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"exit":[0,0,0,0,0,0,0,0,0,9,9,9,9,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9,0,0,9,9,0,0,0,0,0,0,0,0,18,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"max_combo":689,"owners":[{"id":16452371,"username":"melleganol"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":3.87,"id":3914998,"mode":"osu","status":"ranked","total_length":195,"user_id":7784933,"version":"Pepekcz's Hard","accuracy":6.5,"ar":8,"bpm":186,"convert":false,"count_circles":266,"count_sliders":297,"count_spinners":0,"cs":4,"deleted_at":null,"drain":4,"hit_length":166,"is_scoreable":true,"last_updated":"2025-06-01T06:12:26Z","mode_int":0,"passcount":15,"playcount":66,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3914998","checksum":"de43e4396920a5afe592d2aa42932c4f","current_user_playcount":0,"current_user_tag_ids":[],"failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0],"exit":[0,0,0,0,0,0,0,9,0,0,18,0,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"max_combo":944,"owners":[{"id":7784933,"username":"Pepekcz"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":5.07,"id":3932290,"mode":"osu","status":"ranked","total_length":196,"user_id":13421842,"version":"Kyutei's Insane","accuracy":8,"ar":9,"bpm":186,"convert":false,"count_circles":406,"count_sliders":295,"count_spinners":0,"cs":3.7,"deleted_at":null,"drain":5,"hit_length":178,"is_scoreable":true,"last_updated":"2025-06-01T06:12:27Z","mode_int":0,"passcount":67,"playcount":252,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3932290","checksum":"00a8fa8e1e4a67d2491ce518ea0ad186","current_user_playcount":0,"current_user_tag_ids":[],"failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0],"exit":[0,0,0,0,0,0,0,9,9,9,0,0,36,0,0,0,9,0,9,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,27,0,9,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0]},"max_combo":1038,"owners":[{"id":13421842,"username":"Kyutei"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":5.77,"id":4790448,"mode":"osu","status":"ranked","total_length":196,"user_id":16452371,"version":"Easy Peasy","accuracy":8.6,"ar":9.2,"bpm":186,"convert":false,"count_circles":592,"count_sliders":245,"count_spinners":0,"cs":4.4,"deleted_at":null,"drain":6,"hit_length":195,"is_scoreable":true,"last_updated":"2025-06-01T06:12:27Z","mode_int":0,"passcount":75,"playcount":349,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/4790448","checksum":"f48f33fe2f87ecbe047c7c3e3b44b601","current_user_playcount":0,"current_user_tag_ids":[],"failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"exit":[0,0,0,0,18,0,18,0,9,9,0,9,0,0,0,0,9,0,9,18,9,0,0,0,0,0,0,0,9,0,0,9,0,0,0,0,0,18,0,9,0,0,18,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"max_combo":1135,"owners":[{"id":16452371,"username":"melleganol"}],"top_tag_ids":[]}],"converts":[{"beatmapset_id":1863225,"difficulty_rating":1.84,"id":3914997,"mode":"taiko","status":"ranked","total_length":196,"user_id":16452371,"version":"Normal","accuracy":4.5,"ar":5.5,"bpm":186,"convert":true,"count_circles":187,"count_sliders":217,"count_spinners":1,"cs":3.4,"deleted_at":null,"drain":3,"hit_length":171,"is_scoreable":true,"last_updated":"2025-06-01T06:12:26Z","mode_int":1,"passcount":30,"playcount":117,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3914997","checksum":"ee634673f264aabffd76cdeefdb3e8e4","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"exit":[0,0,0,0,0,0,0,0,0,9,9,9,9,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9,0,0,9,9,0,0,0,0,0,0,0,0,18,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"owners":[{"id":16452371,"username":"melleganol"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":1.46,"id":3914997,"mode":"fruits","status":"ranked","total_length":196,"user_id":16452371,"version":"Normal","accuracy":4.5,"ar":5.5,"bpm":186,"convert":true,"count_circles":187,"count_sliders":217,"count_spinners":1,"cs":3.4,"deleted_at":null,"drain":3,"hit_length":171,"is_scoreable":true,"last_updated":"2025-06-01T06:12:26Z","mode_int":2,"passcount":30,"playcount":117,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3914997","checksum":"ee634673f264aabffd76cdeefdb3e8e4","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"exit":[0,0,0,0,0,0,0,0,0,9,9,9,9,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9,0,0,9,9,0,0,0,0,0,0,0,0,18,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"owners":[{"id":16452371,"username":"melleganol"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":2.4,"id":3914997,"mode":"mania","status":"ranked","total_length":196,"user_id":16452371,"version":"[5K] Normal","accuracy":4.5,"ar":5.5,"bpm":186,"convert":true,"count_circles":187,"count_sliders":217,"count_spinners":1,"cs":5,"deleted_at":null,"drain":3,"hit_length":171,"is_scoreable":true,"last_updated":"2025-06-01T06:12:26Z","mode_int":3,"passcount":30,"playcount":117,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3914997","checksum":"ee634673f264aabffd76cdeefdb3e8e4","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"exit":[0,0,0,0,0,0,0,0,0,9,9,9,9,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9,0,0,9,9,0,0,0,0,0,0,0,0,18,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"owners":[{"id":16452371,"username":"melleganol"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":2.76,"id":3914998,"mode":"taiko","status":"ranked","total_length":195,"user_id":7784933,"version":"Pepekcz's Hard","accuracy":6.5,"ar":8,"bpm":186,"convert":true,"count_circles":266,"count_sliders":297,"count_spinners":0,"cs":4,"deleted_at":null,"drain":4,"hit_length":166,"is_scoreable":true,"last_updated":"2025-06-01T06:12:26Z","mode_int":1,"passcount":15,"playcount":66,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3914998","checksum":"de43e4396920a5afe592d2aa42932c4f","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0],"exit":[0,0,0,0,0,0,0,9,0,0,18,0,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"owners":[{"id":7784933,"username":"Pepekcz"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":2.07,"id":3914998,"mode":"fruits","status":"ranked","total_length":195,"user_id":7784933,"version":"Pepekcz's Hard","accuracy":6.5,"ar":8,"bpm":186,"convert":true,"count_circles":266,"count_sliders":297,"count_spinners":0,"cs":4,"deleted_at":null,"drain":4,"hit_length":166,"is_scoreable":true,"last_updated":"2025-06-01T06:12:26Z","mode_int":2,"passcount":15,"playcount":66,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3914998","checksum":"de43e4396920a5afe592d2aa42932c4f","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0],"exit":[0,0,0,0,0,0,0,9,0,0,18,0,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"owners":[{"id":7784933,"username":"Pepekcz"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":2.52,"id":3914998,"mode":"mania","status":"ranked","total_length":195,"user_id":7784933,"version":"[7K] Pepekcz's Hard","accuracy":6.5,"ar":8,"bpm":186,"convert":true,"count_circles":266,"count_sliders":297,"count_spinners":0,"cs":7,"deleted_at":null,"drain":4,"hit_length":166,"is_scoreable":true,"last_updated":"2025-06-01T06:12:26Z","mode_int":3,"passcount":15,"playcount":66,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3914998","checksum":"de43e4396920a5afe592d2aa42932c4f","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0],"exit":[0,0,0,0,0,0,0,9,0,0,18,0,0,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,9,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"owners":[{"id":7784933,"username":"Pepekcz"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":2.97,"id":3932290,"mode":"taiko","status":"ranked","total_length":196,"user_id":13421842,"version":"Kyutei's Insane","accuracy":8,"ar":9,"bpm":186,"convert":true,"count_circles":406,"count_sliders":295,"count_spinners":0,"cs":3.7,"deleted_at":null,"drain":5,"hit_length":178,"is_scoreable":true,"last_updated":"2025-06-01T06:12:27Z","mode_int":1,"passcount":67,"playcount":252,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3932290","checksum":"00a8fa8e1e4a67d2491ce518ea0ad186","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0],"exit":[0,0,0,0,0,0,0,9,9,9,0,0,36,0,0,0,9,0,9,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,27,0,9,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0]},"owners":[{"id":13421842,"username":"Kyutei"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":3.57,"id":3932290,"mode":"fruits","status":"ranked","total_length":196,"user_id":13421842,"version":"Kyutei's Insane","accuracy":8,"ar":9,"bpm":186,"convert":true,"count_circles":406,"count_sliders":295,"count_spinners":0,"cs":3.7,"deleted_at":null,"drain":5,"hit_length":178,"is_scoreable":true,"last_updated":"2025-06-01T06:12:27Z","mode_int":2,"passcount":67,"playcount":252,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3932290","checksum":"00a8fa8e1e4a67d2491ce518ea0ad186","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0],"exit":[0,0,0,0,0,0,0,9,9,9,0,0,36,0,0,0,9,0,9,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,27,0,9,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0]},"owners":[{"id":13421842,"username":"Kyutei"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":2.78,"id":3932290,"mode":"mania","status":"ranked","total_length":196,"user_id":13421842,"version":"[7K] Kyutei's Insane","accuracy":8,"ar":9,"bpm":186,"convert":true,"count_circles":406,"count_sliders":295,"count_spinners":0,"cs":7,"deleted_at":null,"drain":5,"hit_length":178,"is_scoreable":true,"last_updated":"2025-06-01T06:12:27Z","mode_int":3,"passcount":67,"playcount":252,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/3932290","checksum":"00a8fa8e1e4a67d2491ce518ea0ad186","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0],"exit":[0,0,0,0,0,0,0,9,9,9,0,0,36,0,0,0,9,0,9,0,0,0,0,0,0,9,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,27,0,9,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0]},"owners":[{"id":13421842,"username":"Kyutei"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":2.95,"id":4790448,"mode":"taiko","status":"ranked","total_length":196,"user_id":16452371,"version":"Easy Peasy","accuracy":8.6,"ar":9.2,"bpm":186,"convert":true,"count_circles":592,"count_sliders":245,"count_spinners":0,"cs":4.4,"deleted_at":null,"drain":6,"hit_length":195,"is_scoreable":true,"last_updated":"2025-06-01T06:12:27Z","mode_int":1,"passcount":75,"playcount":349,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/4790448","checksum":"f48f33fe2f87ecbe047c7c3e3b44b601","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"exit":[0,0,0,0,18,0,18,0,9,9,0,9,0,0,0,0,9,0,9,18,9,0,0,0,0,0,0,0,9,0,0,9,0,0,0,0,0,18,0,9,0,0,18,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"owners":[{"id":16452371,"username":"melleganol"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":4.6,"id":4790448,"mode":"fruits","status":"ranked","total_length":196,"user_id":16452371,"version":"Easy Peasy","accuracy":8.6,"ar":9.2,"bpm":186,"convert":true,"count_circles":592,"count_sliders":245,"count_spinners":0,"cs":4.4,"deleted_at":null,"drain":6,"hit_length":195,"is_scoreable":true,"last_updated":"2025-06-01T06:12:27Z","mode_int":2,"passcount":75,"playcount":349,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/4790448","checksum":"f48f33fe2f87ecbe047c7c3e3b44b601","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"exit":[0,0,0,0,18,0,18,0,9,9,0,9,0,0,0,0,9,0,9,18,9,0,0,0,0,0,0,0,9,0,0,9,0,0,0,0,0,18,0,9,0,0,18,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"owners":[{"id":16452371,"username":"melleganol"}],"top_tag_ids":[]},{"beatmapset_id":1863225,"difficulty_rating":2.97,"id":4790448,"mode":"mania","status":"ranked","total_length":196,"user_id":16452371,"version":"[7K] Easy Peasy","accuracy":8.6,"ar":9.2,"bpm":186,"convert":true,"count_circles":592,"count_sliders":245,"count_spinners":0,"cs":7,"deleted_at":null,"drain":6,"hit_length":195,"is_scoreable":true,"last_updated":"2025-06-01T06:12:27Z","mode_int":3,"passcount":75,"playcount":349,"ranked":1,"url":"https:\/\/osu.ppy.sh\/beatmaps\/4790448","checksum":"f48f33fe2f87ecbe047c7c3e3b44b601","failtimes":{"fail":[0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"exit":[0,0,0,0,18,0,18,0,9,9,0,9,0,0,0,0,9,0,9,18,9,0,0,0,0,0,0,0,9,0,0,9,0,0,0,0,0,18,0,9,0,0,18,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]},"owners":[{"id":16452371,"username":"melleganol"}],"top_tag_ids":[]}],"current_nominations":[{"beatmapset_id":1863225,"rulesets":["osu"],"reset":false,"user_id":6175280},{"beatmapset_id":1863225,"rulesets":["osu"],"reset":false,"user_id":10726630}],"current_user_attributes":{"can_beatmap_update_owner":false,"can_delete":false,"can_edit_metadata":false,"can_edit_offset":false,"can_edit_tags":false,"can_hype":true,"can_hype_reason":null,"can_love":false,"can_remove_from_loved":false,"is_watching":false,"new_hype_time":null,"nomination_modes":null,"remaining_hype":10},"description":{"description":"<div class='bbcode bbcode--normal-line-height'><ol class=\"unordered\"><li>Hard - <a class=\"user-name js-usercard\" data-user-id=\"7784933\" href=\"https:\/\/osu.ppy.sh\/users\/7784933\">Pepekcz<\/a><\/li><\/ol><ol class=\"unordered\"><li>Insane - <a class=\"user-name js-usercard\" data-user-id=\"13421842\" href=\"https:\/\/osu.ppy.sh\/users\/13421842\">Kyutei<\/a><\/li><\/ol><a rel=\"nofollow\" href=\"https:\/\/www.pixiv.net\/en\/artworks\/80070169\">BG<\/a><\/div>"},"genre":{"id":9,"name":"Hip-Hop"},"language":{"id":3,"name":"Japanisch"},"pack_tags":[],"ratings":[0,1,0,0,0,0,0,0,1,1,2],"recent_favourites":[{"avatar_url":"https:\/\/a.ppy.sh\/23112721?1747624977.jpeg","country_code":"RU","default_group":"default","id":23112721,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":true,"last_visit":"2025-06-09T09:33:51+00:00","pm_friends_only":false,"profile_colour":null,"username":"this is so sad"},{"avatar_url":"https:\/\/a.ppy.sh\/37874937?1746915758.jpeg","country_code":"MX","default_group":"default","id":37874937,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":"2025-06-08T04:42:05+00:00","pm_friends_only":false,"profile_colour":null,"username":"mr remoto"},{"avatar_url":"https:\/\/a.ppy.sh\/32920228?1746890374.png","country_code":"JP","default_group":"default","id":32920228,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":true,"last_visit":"2025-06-09T10:06:11+00:00","pm_friends_only":false,"profile_colour":null,"username":"1222M"},{"avatar_url":"https:\/\/a.ppy.sh\/11086032?1748119043.jpeg","country_code":"MX","default_group":"default","id":11086032,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":null,"pm_friends_only":false,"profile_colour":null,"username":"FerRMZ"},{"avatar_url":"https:\/\/a.ppy.sh\/28586255?1659574954.jpeg","country_code":"BR","default_group":"default","id":28586255,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":"2025-06-06T22:06:38+00:00","pm_friends_only":false,"profile_colour":null,"username":"muchachoo lol"}],"related_users":[{"avatar_url":"https:\/\/a.ppy.sh\/6175280?1736223040.png","country_code":"CL","default_group":"bng","id":6175280,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":true,"last_visit":"2025-06-09T09:11:10+00:00","pm_friends_only":false,"profile_colour":"#A347EB","username":"Cris-"},{"avatar_url":"https:\/\/a.ppy.sh\/7784933?1748707460.jpeg","country_code":"AR","default_group":"default","id":7784933,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":"2025-06-07T04:23:50+00:00","pm_friends_only":false,"profile_colour":null,"username":"Pepekcz"},{"avatar_url":"https:\/\/a.ppy.sh\/10726630?1679740475.jpeg","country_code":"US","default_group":"bng","id":10726630,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":true,"last_visit":"2025-06-09T05:29:37+00:00","pm_friends_only":false,"profile_colour":"#A347EB","username":"Smoke"},{"avatar_url":"https:\/\/a.ppy.sh\/13421842?1747702230.jpeg","country_code":"CL","default_group":"default","id":13421842,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":true,"last_visit":null,"pm_friends_only":false,"profile_colour":null,"username":"Kyutei"},{"avatar_url":"https:\/\/a.ppy.sh\/16452371?1742004234.jpeg","country_code":"CL","default_group":"default","id":16452371,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":null,"pm_friends_only":true,"profile_colour":null,"username":"melleganol"}],"related_tags":[],"user":{"avatar_url":"https:\/\/a.ppy.sh\/16452371?1742004234.jpeg","country_code":"CL","default_group":"default","id":16452371,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":null,"pm_friends_only":true,"profile_colour":null,"username":"melleganol"}}
+    </script>
+
+    <script id="json-comments" type="application/json">
+        {"comments":[{"id":3648809,"parent_id":null,"user_id":9856958,"pinned":false,"replies_count":0,"votes_count":0,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2025-06-09T10:37:31Z","updated_at":"2025-06-09T10:37:31Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":":jam:","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">:jam:<\/p>\n<\/div>"},{"id":3648683,"parent_id":null,"user_id":37347688,"pinned":false,"replies_count":0,"votes_count":0,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2025-06-09T07:47:28Z","updated_at":"2025-06-09T07:47:28Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":"\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f<\/p>\n<\/div>"},{"id":3639871,"parent_id":null,"user_id":8499301,"pinned":false,"replies_count":0,"votes_count":1,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2025-06-02T19:09:04Z","updated_at":"2025-06-02T19:09:21Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":"\ud83d\udc4f\ud83d\udc4f","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">\ud83d\udc4f\ud83d\udc4f<\/p>\n<\/div>"},{"id":3639445,"parent_id":null,"user_id":3457553,"pinned":false,"replies_count":0,"votes_count":1,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2025-06-02T12:38:11Z","updated_at":"2025-06-02T17:16:33Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":"finally its ranked!","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">finally its ranked!<\/p>\n<\/div>"},{"id":3639224,"parent_id":null,"user_id":35326698,"pinned":false,"replies_count":0,"votes_count":1,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2025-06-02T07:52:48Z","updated_at":"2025-06-02T17:16:35Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":"EASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4f\ni love this anime and this song","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">EASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4fEASY BREEZY \ud83d\udc4f\ud83d\udc4f<br \/>i love this anime and this song<\/p>\n<\/div>"},{"id":3427862,"parent_id":null,"user_id":13836963,"pinned":false,"replies_count":0,"votes_count":1,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2024-12-21T15:11:04Z","updated_at":"2025-02-22T23:00:29Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":"WHERES IS THE BN? \ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udd25\ud83d\udd25","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">WHERES IS THE BN? \ud83d\udde3\ufe0f\ud83d\udde3\ufe0f\ud83d\udd25\ud83d\udd25<\/p>\n<\/div>"},{"id":3358773,"parent_id":null,"user_id":23040683,"pinned":false,"replies_count":0,"votes_count":0,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2024-10-23T19:37:13Z","updated_at":"2024-10-23T19:37:13Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":"gracias por el pp","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">gracias por el pp<\/p>\n<\/div>"},{"id":3005415,"parent_id":null,"user_id":3457553,"pinned":false,"replies_count":1,"votes_count":0,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2024-01-12T09:36:42Z","updated_at":"2024-01-12T17:30:11Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":"when ranked?","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">when ranked?<\/p>\n<\/div>"},{"id":2670184,"parent_id":null,"user_id":28586255,"pinned":false,"replies_count":0,"votes_count":0,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2023-03-23T20:26:49Z","updated_at":"2023-03-23T20:26:49Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":";---------------; i love ur map","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">;---------------; i love ur map<\/p>\n<\/div>"},{"id":2589066,"parent_id":null,"user_id":28586255,"pinned":false,"replies_count":1,"votes_count":0,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2023-01-19T22:36:15Z","updated_at":"2023-01-19T22:37:06Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":";-;","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">;-;<\/p>\n<\/div>"}],"has_more":false,"has_more_id":0,"included_comments":[{"id":3005759,"parent_id":3005415,"user_id":16452371,"pinned":false,"replies_count":1,"votes_count":1,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2024-01-12T17:30:11Z","updated_at":"2024-01-12T21:27:22Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":"-aqua is trolling me","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">-aqua is trolling me<\/p>\n<\/div>"},{"id":2589068,"parent_id":2589066,"user_id":16452371,"pinned":false,"replies_count":0,"votes_count":1,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2023-01-19T22:37:06Z","updated_at":"2023-03-24T14:38:30Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":"sup","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">sup<\/p>\n<\/div>"},{"id":3005990,"parent_id":3005759,"user_id":3457553,"pinned":false,"replies_count":0,"votes_count":0,"commentable_type":"beatmapset","commentable_id":1863225,"legacy_name":null,"created_at":"2024-01-12T21:27:22Z","updated_at":"2024-01-12T21:27:22Z","deleted_at":null,"edited_at":null,"edited_by_id":null,"message":"noooo","message_html":"<div class='osu-md osu-md--comment'><p class=\"osu-md__paragraph\">noooo<\/p>\n<\/div>"}],"pinned_comments":[],"user_votes":[],"user_follow":false,"users":[{"avatar_url":"https:\/\/a.ppy.sh\/3457553?1714542822.jpeg","country_code":"ID","default_group":"default","id":3457553,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":null,"pm_friends_only":false,"profile_colour":null,"username":"-NanoRIPE-"},{"avatar_url":"https:\/\/a.ppy.sh\/8499301?1749428625.jpeg","country_code":"CL","default_group":"default","id":8499301,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":"2025-06-09T05:00:35+00:00","pm_friends_only":false,"profile_colour":null,"username":"matiwii"},{"avatar_url":"https:\/\/a.ppy.sh\/9856958?1749418065.jpeg","country_code":"DE","default_group":"default","id":9856958,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":true,"is_supporter":false,"last_visit":"2025-06-09T11:21:43+00:00","pm_friends_only":false,"profile_colour":null,"username":"- [Flan-chan] -"},{"avatar_url":"https:\/\/a.ppy.sh\/13836963?1669813331.jpeg","country_code":"CO","default_group":"default","id":13836963,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":"2025-05-29T22:51:55+00:00","pm_friends_only":false,"profile_colour":null,"username":"iZolo"},{"avatar_url":"https:\/\/a.ppy.sh\/16452371?1742004234.jpeg","country_code":"CL","default_group":"default","id":16452371,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":null,"pm_friends_only":true,"profile_colour":null,"username":"melleganol"},{"avatar_url":"https:\/\/a.ppy.sh\/23040683?1747089338.png","country_code":"CO","default_group":"default","id":23040683,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":true,"is_supporter":false,"last_visit":"2025-06-09T11:23:53+00:00","pm_friends_only":false,"profile_colour":null,"username":"LaurKappita"},{"avatar_url":"https:\/\/a.ppy.sh\/28586255?1659574954.jpeg","country_code":"BR","default_group":"default","id":28586255,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":"2025-06-06T22:06:38+00:00","pm_friends_only":false,"profile_colour":null,"username":"muchachoo lol"},{"avatar_url":"https:\/\/a.ppy.sh\/35326698?1747934092.gif","country_code":"RU","default_group":"default","id":35326698,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":"2025-06-08T19:59:23+00:00","pm_friends_only":false,"profile_colour":null,"username":"KritPls"},{"avatar_url":"https:\/\/a.ppy.sh\/37347688?1749362241.jpeg","country_code":"VN","default_group":"default","id":37347688,"is_active":true,"is_bot":false,"is_deleted":false,"is_online":false,"is_supporter":false,"last_visit":"2025-06-09T08:02:55+00:00","pm_friends_only":false,"profile_colour":null,"username":"csisfun"}],"sort":"new","cursor":{"created_at":"2023-01-19T22:36:15.000000Z","id":2589066},"top_level_count":10,"total":13,"commentable_meta":[{"current_user_attributes":{"can_new_comment_reason":"Nicht m\u00f6glich, w\u00e4hrend man restricted ist."},"id":1863225,"type":"beatmapset","title":"Easy Breezy","url":"https:\/\/osu.ppy.sh\/beatmapsets\/1863225","owner_id":16452371,"owner_title":"MAPPER"},{"title":"Gel\u00f6schtes Item"}]}
+    </script>
+
+    <script id="json-genres" type="application/json">
+        []
+    </script>
+
+    <script id="json-languages" type="application/json">
+        []
+    </script>
+
+    <script id="json-recommended-star-difficulty-all" type="application/json">
+    {"osu":1,"taiko":1,"fruits":1,"mania":1}
+</script>
+    <div class="hidden js-react-turbolinks--script" data-src="/assets/js/beatmapsets-show.f416da13.js"></div>
+    </body>
+</html>
