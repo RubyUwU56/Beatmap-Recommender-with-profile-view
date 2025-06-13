@@ -1,0 +1,6 @@
+{
+  "client_id": "41245",
+  "client_secret": "WS6grS4kizYNvhsSda7mEsdIwbUfA1DDwfKKzD1s",
+  "redirect_uri": "http://localhost:8080/callback",
+  "language": "English"
+}
